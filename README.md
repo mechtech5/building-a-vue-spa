@@ -1,0 +1,1 @@
+Building a Vue SPA with Laravel || https://laravel-news.com/using-vue-router-laravel
